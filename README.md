@@ -21,9 +21,3 @@ python generate_license.py
 python check_license.py
 
 ```
-
-
-尊重原创
-[原作者知乎](https://zhuanlan.zhihu.com/p/155951909)
-
-[原作者github](https://github.com/Jarrettluo/ADAS_Evaluation_Launcher)

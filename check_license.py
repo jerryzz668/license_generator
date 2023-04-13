@@ -52,8 +52,8 @@ if __name__ == '__main__':
     # print(current_time)
     lic_path = 'LICENSE/license_f02f74f39e9e_2022-08-11T152437.166253.lic'
     checklicense = CheckLicense(lic_path)
-    check_date_result = checklicense.check_date(current_time)
-    print(check_date_result)
+    # check_date_result = checklicense.check_date(current_time)
+    # print(check_date_result)
 
     check_psw_result = checklicense.check_psw()
     print(check_psw_result)
